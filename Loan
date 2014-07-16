@@ -1,0 +1,47 @@
+class Loan:
+    def __init__(self,annualInterestRate=2.5,numofYears=1,loanAmt=1000,BorName=''):
+        self.__annualInterestRate=annualInterestRate
+        self.__numofYears=numofYears
+        self.__loanAmt=loanAmt
+        self.__BorName=Borname
+
+    def getannualInterestRate(annualInterestRate):
+        return self.__annualInterestRate
+    def getnumofYears(numofYears):
+        return self.__numofYears
+    def getloanAmt(loanAmt):
+        return self.__loanAmt
+    def getBorName(BorName):
+        return self.__BorName
+    def setannualInterestRate(self,annualInterestRate):
+        self.__annualInterestRate=annualInterestRate
+    def setnumofYears(self,numofYears):
+        self.__numofYears=numofYears
+    def setloanAmt(self,loanAmt):
+        self.__loanAmt=loanAmt
+    def setBorName(self,BorName):
+        self.__BorName=BorName
+
+
+    def getmonthlyPayment(self.__loanAmt,self.__annualInterestRate,self.__numofYears):
+        monthlyInterestRate=self.annualInterestRate/1200
+        monthlyPayment=self.__loanAmt+monthlyInterestRate/(1-(1/(1+monthlyInterestRate)\
+                                                      **(self.__numofYears*12)))
+    def getTotalPayment(self.__numofYears):
+        totalPayment=getMonthlyPayment()*self.__numofYears*12
+
+
+
+def main():
+    print("Enter information for loan")
+    print()
+    setannualInterestRate=float(input("Enter yearly interest rate:"))
+    setnumofYears=float(input("Enter number of Years as an integer:"))
+    setloanAmt=float(input("Enter Loan Amount:"))
+    setBorName=input("Enter Borrower's Name:"))
+    print()
+    print("The loan is for",BorName)
+    print("The monthly payment is",getmonthlyPayment)
+    print("The total payment is",getTotalPayment)
+    print()
+    

@@ -1,0 +1,78 @@
+#Program 2
+#Alicia Leslie
+#214236
+#Using While Loop
+
+numbershares=0.0
+purchaseprice=0.0
+sellingprice=0.0
+commission=0.0
+count=0
+
+name=input("Enter your name:")
+numbershares=float(input("Enter Number of Shares or -999 to quit:"))
+while numbershares!=-999:
+    purchaseprice=float(input("Enter Purchase Price:"))
+    sellingprice=float(input("Enter Selling price:"))
+    commission=float(input("Enter Commission:"))
+    
+    count=count+1
+
+    amountpaid=numbershares*purchaseprice
+    amountcommission=amountpaid*commission
+    amountsold=numbershares*sellingprice
+    amountcommissionsold=amountsold*commission
+    profit=(amountsold-amountcommissionsold)-(amountpaid+amountcommission)
+
+    
+    print()
+    print("The information for stock number",count)
+    print("--------------------------------------")
+    print("Amount paid for the stock:      $",format(amountpaid,'10,.2f'))
+    print("Commission paid on the purchase:$",format(amountcommission,'10,.2f'))
+    print("Amount the stock sold for:      $",format(amountsold,'10,.2f'))
+    print("Commission paid on the sale:    $",format(amountcommissionsold,'10,.2f'))
+    print("Profit(or loss if negative):    $",format(profit,'10,.2f'))
+
+    numbershares=int(input("Enter Number of Shares or -999 to quit"))
+
+>>> 
+Enter your name:alicia
+Enter Number of Shares or -999 to quit:40
+Enter Purchase Price:20
+Enter Selling price:18
+Enter Commission:.08
+
+The information for stock number 1
+--------------------------------------
+Amount paid for the stock:      $     800.00
+Commission paid on the purchase:$      64.00
+Amount the stock sold for:      $     720.00
+Commission paid on the sale:    $      57.60
+Profit(or loss if negative):    $    -201.60
+Enter Number of Shares or -999 to quit30
+Enter Purchase Price:25
+Enter Selling price:28
+Enter Commission:.03
+
+The information for stock number 2
+--------------------------------------
+Amount paid for the stock:      $     750.00
+Commission paid on the purchase:$      22.50
+Amount the stock sold for:      $     840.00
+Commission paid on the sale:    $      25.20
+Profit(or loss if negative):    $      42.30
+Enter Number of Shares or -999 to quit20
+Enter Purchase Price:10
+Enter Selling price:8
+Enter Commission:.03
+
+The information for stock number 3
+--------------------------------------
+Amount paid for the stock:      $     200.00
+Commission paid on the purchase:$       6.00
+Amount the stock sold for:      $     160.00
+Commission paid on the sale:    $       4.80
+Profit(or loss if negative):    $     -50.80
+Enter Number of Shares or -999 to quit-999
+>>> 

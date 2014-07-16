@@ -1,0 +1,8 @@
+Sumatra
+10.0
+Columbian
+50.0
+Dark Roast
+10
+Light Roast
+25
