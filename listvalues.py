@@ -1,6 +1,6 @@
 #alicia leslie
 #4-1
-#fill a list with values suing an index
+#fill a list with values using an index
 
 #create a list of 5 elements
 num=[0]*5
