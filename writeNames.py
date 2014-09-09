@@ -1,5 +1,4 @@
 #alicia
-#4-17
 #program asks user for 3 names to write to file
 
 def main():
