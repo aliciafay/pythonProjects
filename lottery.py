@@ -1,6 +1,4 @@
-#Program 1
 #Alicia Leslie
-#214236
 #Lottery Program
 
 import random
