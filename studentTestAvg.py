@@ -1,4 +1,3 @@
-#Lab 12, Test 2
 #alicia leslie
 
 num_stud=int(input("How many students?"))
