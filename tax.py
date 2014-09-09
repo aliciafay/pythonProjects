@@ -1,6 +1,4 @@
-#Example 5
 #Alicia Leslie
-#214236
 #Declare Variables
 
 purchase=0.0
