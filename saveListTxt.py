@@ -1,5 +1,4 @@
 #alicia
-#4-26
 #program to save a list to text_file
 
 def main():
