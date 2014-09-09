@@ -1,5 +1,4 @@
 #alicia leslie
-#4-2
 #program to allow user to input values into a list
 
 def main():
