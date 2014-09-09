@@ -1,4 +1,3 @@
-#Program 3
 #Alicia Leslie
 #Using For Loop
 
