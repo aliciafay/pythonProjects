@@ -1,5 +1,4 @@
 #alicia
-#4-21
 #use loops with file
 
 def main():
