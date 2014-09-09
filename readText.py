@@ -1,5 +1,4 @@
 #alicia
-#4-25
 #read the employees.txt
 
 def main():
