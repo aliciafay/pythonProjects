@@ -1,6 +1,4 @@
-#ex2 lab 13
 #alicia leslie
-
 #find largest number
 
 num=int(input("Enter a value"))
