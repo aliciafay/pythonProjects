@@ -1,5 +1,4 @@
 #alicia leslie
-#lab 7
 #function to input data
 
 def load():
