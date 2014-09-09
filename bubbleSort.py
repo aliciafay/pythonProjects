@@ -1,5 +1,4 @@
 #alicia leslie
-#5-2
 #bubblesort
 
 def bubblesort(lst):
