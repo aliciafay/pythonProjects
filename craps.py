@@ -1,4 +1,3 @@
-#lab 6
 #alicia leslie
 #craps roller
 
