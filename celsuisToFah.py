@@ -1,6 +1,4 @@
-#Example 4
 #Alicia Leslie
-#214236
 #Declare Variables to hold temperature
 
 celsuis=0.0
