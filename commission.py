@@ -1,6 +1,4 @@
-#Program 2
 #Alicia Leslie
-#214236
 
 numbershares=0.0
 purchaseprice=0.0
