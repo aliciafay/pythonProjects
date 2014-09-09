@@ -1,5 +1,4 @@
 #alicia
-#4-13
 #2D list - fill with random numbers
 import random
 
