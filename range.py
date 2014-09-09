@@ -1,6 +1,4 @@
-#ex2 lab 11
 #alicia leslie
-
 #allow user to enter the start and end range
 
 start=int(input("Enter start number"))
