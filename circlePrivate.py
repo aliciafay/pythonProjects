@@ -1,5 +1,4 @@
 #alicia leslie
-#5-10
 #private class main
 
 import mycircle
