@@ -1,4 +1,3 @@
-#Program 2
 #Alicia Leslie
 #Using While Loop
 
