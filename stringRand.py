@@ -1,5 +1,4 @@
 #alicia leslie
-#strings2
 
 
 word="index"
