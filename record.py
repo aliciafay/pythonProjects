@@ -1,5 +1,4 @@
 #alicia
-#4-24
 #record - program gets employee data and saves as record
 
 def main():
