@@ -1,5 +1,4 @@
 #alicia
-#4-22
 #read with loop one line at a time until end of file
 
 def main():
