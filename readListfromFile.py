@@ -1,5 +1,4 @@
 #alicia
-#4-27
 #program reads list from file
 
 def main():
