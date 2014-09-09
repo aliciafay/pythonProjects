@@ -1,5 +1,4 @@
 #alicia leslie
-#lab 9
 
 again="y"
 while again.lower()=='y':
