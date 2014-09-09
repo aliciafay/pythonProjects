@@ -1,5 +1,4 @@
 #alicia leslie
-#lab 8
 
 s1="Welcome"
 s2="Python"
