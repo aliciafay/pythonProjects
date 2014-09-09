@@ -1,5 +1,4 @@
 #alicia leslie
-#5-1
 #linear search
 
 def findsort(something,alist):
