@@ -1,5 +1,4 @@
 #alicia leslie
-#lab 6
 #Default arguments
 
 def printArea(width=1,height=2):
