@@ -1,5 +1,4 @@
 #alicia
-#4-7
 #index method
 
 def main():
