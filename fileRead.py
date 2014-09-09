@@ -1,5 +1,4 @@
 #alicia
-#4-16
 #program reads contents of file one line at a time
 
 def main():
