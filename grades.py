@@ -1,5 +1,4 @@
 #alicia leslie
-#lab 4
 #function that does not return value
 
 def printGrade(score):
