@@ -1,5 +1,4 @@
 #Alicia Leslie
-#Lab 2
 #Find sum of numbers 1-10,20-37, 35-49
 
 
