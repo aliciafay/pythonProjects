@@ -1,6 +1,4 @@
-#ex 2 lab 9
 #alicia leslie
-
 #guess a number from 1 to 100
 
 import random
