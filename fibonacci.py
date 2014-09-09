@@ -1,5 +1,4 @@
 #alicia leslie
-#5-6
 #fibonacci
 
 def fib(n):
