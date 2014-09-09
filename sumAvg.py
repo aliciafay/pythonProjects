@@ -1,6 +1,4 @@
-#ex2 lab10
 #alicia leslie
-
 #find sum and avg until user stops
 
 sum=0
