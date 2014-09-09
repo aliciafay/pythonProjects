@@ -1,7 +1,6 @@
 #alicia leslie
-#lab 11
 
-import C3lab10
+import loginNamePassword.py
 def main():
     first=input("Enter first name:")
     last=input("Enter last name:")
