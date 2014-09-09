@@ -1,5 +1,4 @@
 #alicia
-#4-19
 #program to write numbers to file
 
 def main():
