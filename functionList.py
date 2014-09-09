@@ -1,5 +1,4 @@
 #alicia
-#4-12
 #program uses function to create a list and return to main and print
 
 def main():
