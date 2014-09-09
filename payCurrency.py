@@ -1,6 +1,4 @@
-#Example 3
 #Alicia Leslie
-#214236
 #Program Currency
 
 pay=5000.0
