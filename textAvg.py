@@ -1,6 +1,4 @@
-#Lab 5
 #Alicia Leslie
-#214236
 #This program calculates average of 3 test scores
 
 test1=int(input("Enter Test Score 1:"))
