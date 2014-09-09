@@ -1,5 +1,4 @@
 #alicia
-#4-15
 #read data from file
 
 def main():
