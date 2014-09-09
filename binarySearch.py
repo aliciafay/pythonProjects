@@ -1,5 +1,4 @@
 #alicia leslie
-#5-3
 #binary search
 
 import bubble
