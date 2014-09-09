@@ -1,5 +1,4 @@
 #alicia leslie
-#5-8
 #circle instantiation
 
 import circleprogram
