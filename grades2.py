@@ -1,5 +1,4 @@
 #alicia leslie
-#lab 5
 #function that returns value
 
 def getGrade(score):
